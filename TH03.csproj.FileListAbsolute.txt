@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.FrmSinhVien.resources
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.Properties.Resources.resources
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TH03\TH03\bin\Debug\TH03.exe.config
+C:\Users\DELL\source\repos\TH03\TH03\bin\Debug\TH03.exe
+C:\Users\DELL\source\repos\TH03\TH03\bin\Debug\TH03.pdb
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.exe
+C:\Users\DELL\source\repos\TH03\TH03\obj\Debug\TH03.pdb
